@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Live Forever",
+      "day": "July 15th",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "HIIT Cardio",
+      "day": "16th July 00:00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "some task",
+      "day": "today",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "work",
+      "day": "19th July",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
